@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "505905325936",
+    "project_id": "socialbutterfly-87cf2",
+    "storage_bucket": "socialbutterfly-87cf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505905325936:android:1807fbffe248d7a36911b5",
+        "android_client_info": {
+          "package_name": "com.example.socialbutterfly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505905325936-ug5qujq7oriuvsrb5a0f3rp795m2gd7r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.socialbutterfly",
+            "certificate_hash": "9777fe820df1c9f14df83e717917d8f59536c339"
+          }
+        },
+        {
+          "client_id": "505905325936-5j3bjk6o790kem229q9uhcjpi15k7hi3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaC9XxNLvw9au7JCj8hBGoYxjQyrtP1DY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505905325936-5j3bjk6o790kem229q9uhcjpi15k7hi3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
